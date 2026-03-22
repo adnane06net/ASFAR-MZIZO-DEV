@@ -46,15 +46,15 @@
       "name": "Home",
       "type": "url",
       "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/home.png",
-      "url": "https://solodroidev.github.io/webdroid/pages/light/home.html",
+      "url": "https://play.famobi.com/wrapper/fun-race-3d/A1000-10",
       "url_dark": "https://play.famobi.com/wrapper/fun-race-3d/A1000-10"
     },
     {
       "name": "Portfolio",
       "type": "url",
       "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/portfolio.png",
-      "url": "https://solodroidev.github.io/webdroid/pages/light/portfolio.html",
-      "url_dark": "https://solodroidev.github.io/webdroid/pages/dark/portfolio.html"
+      "url": "https://play.famobi.com/wrapper/fun-race-3d/A1000-10",
+      "url_dark": "https://play.famobi.com/wrapper/fun-race-3d/A1000-10"
     },
     {
       "name": "Testimonials",
