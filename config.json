@@ -1,8 +1,8 @@
 {
   "app": {
     "status": true,
-    "toolbar": true,
-    "navigation_drawer": true,
+    "toolbar": false,
+    "navigation_drawer": false,
     "geolocation": true,
     "cache": true,
     "open_link_in_external_browser": false,
