@@ -2,7 +2,7 @@
   "app": {
     "status": true,
     "toolbar": false,
-    "navigation_drawer": false,
+    "navigation_drawer": true,
     "geolocation": true,
     "cache": true,
     "open_link_in_external_browser": false,
