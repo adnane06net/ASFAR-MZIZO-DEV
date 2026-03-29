@@ -81,7 +81,7 @@
   "ads": {
     "ad_status": true,
     "main_ads": "admob",
-    "backup_ads": "none",
+    "backup_ads": "applovin",
     "admob_banner_unit_id": "ca-app-pub-3394099792135095/6341248577",
     "admob_interstitial_unit_id": "ca-app-pub-3394099792135095/3060479111",
     "admob_native_unit_id": "ca-app-pub-3394099792135095/3718954664",
